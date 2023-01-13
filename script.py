@@ -92,5 +92,5 @@ if "__main__" == __name__:
     
     generate_excel(scrapy())
 
-    send_email("dayronstovar@gmail.com")
+    send_email()
     
